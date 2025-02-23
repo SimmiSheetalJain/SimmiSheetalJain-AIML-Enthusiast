@@ -129,6 +129,13 @@ const Navbar = () => {
               </svg>
             </button>
           </Link>
+          <Link to="/work">
+            <button className="button">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="size-6">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M16.862 3.487a2.25 2.25 0 0 1 3.182 3.182l-9.675 9.676a4.5 4.5 0 0 1-1.464.975l-4.211 1.404a.75.75 0 0 1-.948-.948l1.404-4.211a4.5 4.5 0 0 1 .975-1.464l9.675-9.676ZM15.75 6.75 17.25 8.25M5.25 18.75h13.5" />
+              </svg>
+            </button>
+          </Link>
         </div>
       </div>
     </StyledWrapper>

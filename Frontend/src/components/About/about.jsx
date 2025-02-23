@@ -10,7 +10,7 @@ const About = () => {
           <h1 className='text-3xl lg:text-4xl font-bold text-white font-serif'>Hey, I am</h1>
           <h1 className='text-3xl lg:text-4xl font-bold text-cyan-500 font-serif'>Sheetal Jain</h1>
           <h1 className='text-3xl lg:text-4xl font-bold text-white font-serif'>
-            A Data Science/Machine Learning/Deep Learning Enthusiast!!
+            A Data Analysis/Machine Learning/Deep Learning Enthusiast!!
           </h1>
         </div>
       </div>
@@ -54,7 +54,7 @@ const About = () => {
           </p> */}
           <p className='text-lg text-white mt-4 font-serif'>
             📚 <strong>What I find Interesting</strong> <br />
-            I believe that technology is a powerful tool for transformation. With my expertise in Machine Learning and Deep Learning, I am eager to leverage my skills to contribute to impactful and meaningful projects.
+            I believe that technology is a powerful tool for transformation. With my expertise in Data Analysis, Machine Learning, and Deep Learning, I am eager to leverage my skills to contribute to impactful and meaningful projects.
           </p>
         </div>
 

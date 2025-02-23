@@ -24,7 +24,7 @@ const Body = () => {
                     Driven by a passion for Machine Learning and Deep Learning, I aspire to harness the transformative power of technology to tackle real-world challenges and contribute to impactful, meaningful projects. 
                 </p> */}
                 <p className='text-lg lg:text-xl text-white mt-4 font-serif text-justify'>
-                    Driven by a passion for Machine Learning and Deep Learning, <br className='hidden md:block' />
+                    Driven by a passion for Data Analysis, Machine Learning, and Deep Learning, <br className='hidden md:block' />
                     I aspire to harness the transformative power of technology <br className='hidden md:block' />
                     to tackle real-world challenges and contribute to <br className='hidden md:block' />
                     impactful, meaningful projects.

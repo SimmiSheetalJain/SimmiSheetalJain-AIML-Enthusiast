@@ -19,7 +19,7 @@ const StyledWrapper = styled.div`
   .card {
     position: relative;
     width: 300px;
-    height: 200px;
+    height: 220px;
     background-color: #f2f2f2;
     border-radius: 10px;
     display: flex;
@@ -72,7 +72,7 @@ const StyledWrapper = styled.div`
   }
 
   .card__description {
-    margin: 10px 0 0;
+    margin: 10px 10px;
     font-size: 14px;
     color: #777;
     line-height: 1.4;

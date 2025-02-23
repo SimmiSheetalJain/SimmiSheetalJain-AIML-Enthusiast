@@ -19,24 +19,30 @@ const Certificates = () => {
         />
         <Cardcerti
           image="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DVFXRR733RQV/CERTIFICATE_LANDING_PAGE~DVFXRR733RQV.jpeg"
-          Card_title="Data Analysis with R Programming"
-          Description="Proficient in R programming language and environment, including functions, variables, data types, pipes, and vectors. Skilled in generating visualizations and basic R Markdown formatting for structured content."
+          Card_title="Data Analysis Using R Programming"
+          Description="Gained proficiency in R programming, including functions, variables, data types, pipes, vectors, visualizations, and R Markdown for structured reporting."
         />
         <Cardcerti
-          image="https://github.com/P47Parzival/Portfolio/blob/main/Frontend/src/assets/tic_tac_toe.jpg?raw=true"
-          Card_title="Hackathon Certificate"
-          Description="Gained knowledge and experience after attending a 36-hour in-person hackathon at DAIICT."
+          image="https://github.com/SimmiSheetalJain/SimmiSheetalJain-AIML-Enthusiast/blob/main/Frontend/src/assets/sih24.png?raw=true"
+          Card_title="Smart India Hackathon Certificate"
+          Description="Gained knowledge and experience after attending a 36-hour in-person hackathon at SIH24 Grand Finale, IIT Tirupati."
         />
         <Cardcerti
-          image="https://github.com/P47Parzival/Portfolio/blob/main/Frontend/src/assets/tata_imagination.jpg?raw=true"
-          Card_title="TATA Imagination Quiz"
-          Description="Participated in the TATA Imagination Quiz organized by the TATA Foundation."
+          image="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4SKIT36NLLTU/CERTIFICATE_LANDING_PAGE~4SKIT36NLLTU.jpeg"
+          Card_title="Machine Learning Specialization"
+          Description="Gained expertise in scikit-learn, TensorFlow, prediction, classification, clustering, anomaly detection, neural networks, decision trees, ensembles, recommendation systems, and deep reinforcement learning."
         />
         <Cardcerti
-          image="https://github.com/P47Parzival/Portfolio/blob/main/Frontend/src/assets/thinkbiz_tecahthon.jpg?raw=true"
-          Card_title="Thinkbiz Teachathon"
-          Description="Thinkbiz 24-hour in-person Techathon 2025."
+          image="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4SKIT36NLLTU/CERTIFICATE_LANDING_PAGE~4SKIT36NLLTU.jpeg"
+          Card_title="Machine Learning Specialization"
+          Description="Expert in ML with NumPy, scikit-learn, and TensorFlow, skilled in prediction, classification, clustering, anomaly detection, neural networks, decision trees, ensembles, recommender systems, and deep reinforcement learning."
         />
+        <Cardcerti
+          image="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4SKIT36NLLTU/CERTIFICATE_LANDING_PAGE~4SKIT36NLLTU.jpeg"
+          Card_title="Machine Learning Specialization"
+          Description="Expert in ML with NumPy, scikit-learn, and TensorFlow, skilled in prediction, classification, clustering, anomaly detection, neural networks, decision trees, ensembles, recommender systems, and deep reinforcement learning."
+        />
+        
       </div>
     </section>
   );
