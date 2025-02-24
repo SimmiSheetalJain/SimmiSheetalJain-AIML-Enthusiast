@@ -8,6 +8,7 @@ import Footer from './components/footer';
 import About from './components/About/about';
 import Contact from './components/contact/contact';
 import Work from './components/Work/work';
+import Work1 from './components/Articles/work';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import CardsContainer from './components/Social/connect';
 
@@ -22,6 +23,7 @@ const App = () => {
           <Route path='/Contact' element={<Contact />}></Route>
           <Route path='/socialcard' element={<CardsContainer />}></Route>
           <Route path='/work' element={<Work />}></Route>
+          <Route path='/articles' element={<Work1 />}></Route>
         </Routes>
       </Router>
     </div>
