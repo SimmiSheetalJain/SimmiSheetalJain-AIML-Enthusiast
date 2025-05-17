@@ -10,7 +10,7 @@ const About = () => {
           <h1 className='text-3xl lg:text-4xl font-bold text-white font-serif'>Hey, I am</h1>
           <h1 className='text-3xl lg:text-4xl font-bold text-cyan-500 font-serif'>Sheetal Jain</h1>
           <h1 className='text-3xl lg:text-4xl font-bold text-white font-serif'>
-            A Data Analysis/Machine Learning/Deep Learning Enthusiast!!
+            A AIML & FastAPI Backend Development Enthusiast!!
           </h1>
         </div>
       </div>
@@ -38,7 +38,7 @@ const About = () => {
           <div className='mt-8 lg:mt-0 lg:w-1/2 flex justify-center'>
             <img
               className='rounded-lg w-full max-w-xs sm:max-w-sm md:max-w-md object-cover'
-              src="https://github.com/SimmiSheetalJain/SimmiSheetalJain-AIML-Enthusiast/blob/main/Frontend/src/assets/sheetaljainprofilephoto.png?raw=true"
+              src='../../assets/profileImage.jpg'
               alt="Sheetal Jain"
             />
           </div>
