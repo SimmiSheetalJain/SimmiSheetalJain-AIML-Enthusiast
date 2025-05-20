@@ -21,17 +21,13 @@ const Work = () => {
                     imagesource="https://media.licdn.com/dms/image/v2/D5612AQEZiswZSKIjxQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1706588296344?e=2147483647&v=beta&t=BjPkwbTXbnp2tvmaRPwdrV7IZNv-vyZ2zN89iYhe1ss" 
                 />
                 <Workcard 
-                    sitelink="#" 
+                    sitelink="https://github.com/SimmiSheetalJain/ArgusPro" 
                     appname="ArgusPro, An AI-Embeded Content Optimizer" 
                     imagesource="https://www.searchenginejournal.com/wp-content/uploads/2018/06/Boost-Your-Traffic-by-Optimizing-Content-That-You-Already-Have.png" 
                 />
+                
                 <Workcard 
-                    sitelink="#" 
-                    appname="Data Visusalization Dashboard" 
-                    imagesource="https://www.shutterstock.com/image-photo/data-analyst-working-on-business-600nw-2277411191.jpg" 
-                />
-                <Workcard 
-                    sitelink="#"  
+                    sitelink="https://karyakram-mai-404-discerning-minds2-0.vercel.app/"  
                     appname="KARYAKRAM, An Event Management System" 
                     imagesource="https://cdn1.vectorstock.com/i/1000x1000/45/20/event-management-concept-banner-header-vector-23614520.jpg" 
                 />

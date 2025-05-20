@@ -38,7 +38,7 @@ const About = () => {
           <div className='mt-8 lg:mt-0 lg:w-1/2 flex justify-center'>
             <img
               className='rounded-lg w-full max-w-xs sm:max-w-sm md:max-w-md object-cover'
-              src='../../assets/profileImage.jpg'
+              src='https://github.com/SimmiSheetalJain/SimmiSheetalJain-AIML-Enthusiast/blob/main/Frontend/src/assets/profileImage.jpg?raw=true'
               alt="Sheetal Jain"
             />
           </div>
