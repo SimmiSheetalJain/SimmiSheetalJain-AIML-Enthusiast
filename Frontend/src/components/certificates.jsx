@@ -33,14 +33,14 @@ const Certificates = () => {
           Description="Gained expertise in scikit-learn, TensorFlow, prediction, classification, clustering, anomaly detection, neural networks, decision trees, ensembles, recommendation systems, and deep reinforcement learning."
         />
         <Cardcerti
-          image="#"
-          Card_title="Machine Learning Specialization"
-          Description="Gained expertise in scikit-learn, TensorFlow, prediction, classification, clustering, anomaly detection, neural networks, decision trees, ensembles, recommendation systems, and deep reinforcement learning."
+          image="https://raw.githubusercontent.com/SimmiSheetalJain/SimmiSheetalJain-AIML-Enthusiast/refs/heads/main/Frontend/src/assets/physio_deep_research_paper.jpg"
+          Card_title="Deepfake detection Research Paper"
+          Description="Published a research paper for a deepfake detection algorithm"
         />
         <Cardcerti
-          image="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4SKIT36NLLTU/CERTIFICATE_LANDING_PAGE~4SKIT36NLLTU.jpeg"
-          Card_title="Machine Learning Specialization"
-          Description="Gained expertise in scikit-learn, TensorFlow, prediction, classification, clustering, anomaly detection, neural networks, decision trees, ensembles, recommendation systems, and deep reinforcement learning."
+          image="https://raw.githubusercontent.com/SimmiSheetalJain/SimmiSheetalJain-AIML-Enthusiast/refs/heads/main/Frontend/src/assets/triumph_certificate.jpg"
+          Card_title="Triumph 2025"
+          Description="Triumph 2025 is part of a proud tradition by the LNCT Group of Colleges, held for over 20 years to felicitate students who secure placements through campus recruitment."
         />
         
       </div>

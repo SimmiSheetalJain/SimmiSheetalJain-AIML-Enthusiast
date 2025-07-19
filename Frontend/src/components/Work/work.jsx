@@ -27,7 +27,7 @@ const Work = () => {
                 />
                 
                 <Workcard 
-                    sitelink="https://karyakram-mai-404-discerning-minds2-0.vercel.app/"  
+                    sitelink="https://dms.licdn.com/playlist/vid/v2/D4D05AQHwPM8CdZIAuw/mp4-720p-30fp-crf28/B4DZdjcRRuHkBg-/0/1749720270151?e=1753520400&v=beta&t=aIOlUsPk3oq4i0p6xeSiyO12cEe4B6y4gEaqnfk8rUk"  
                     appname="KARYAKRAM, An Event Management System" 
                     imagesource="https://cdn1.vectorstock.com/i/1000x1000/45/20/event-management-concept-banner-header-vector-23614520.jpg" 
                 />
