@@ -33,14 +33,14 @@ const Certificates = () => {
           Description="Gained expertise in scikit-learn, TensorFlow, prediction, classification, clustering, anomaly detection, neural networks, decision trees, ensembles, recommendation systems, and deep reinforcement learning."
         />
         <Cardcerti
-          image="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4SKIT36NLLTU/CERTIFICATE_LANDING_PAGE~4SKIT36NLLTU.jpeg"
+          image="#"
           Card_title="Machine Learning Specialization"
-          Description="Expert in ML with NumPy, scikit-learn, and TensorFlow, skilled in prediction, classification, clustering, anomaly detection, neural networks, decision trees, ensembles, recommender systems, and deep reinforcement learning."
+          Description="Gained expertise in scikit-learn, TensorFlow, prediction, classification, clustering, anomaly detection, neural networks, decision trees, ensembles, recommendation systems, and deep reinforcement learning."
         />
         <Cardcerti
           image="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4SKIT36NLLTU/CERTIFICATE_LANDING_PAGE~4SKIT36NLLTU.jpeg"
           Card_title="Machine Learning Specialization"
-          Description="Expert in ML with NumPy, scikit-learn, and TensorFlow, skilled in prediction, classification, clustering, anomaly detection, neural networks, decision trees, ensembles, recommender systems, and deep reinforcement learning."
+          Description="Gained expertise in scikit-learn, TensorFlow, prediction, classification, clustering, anomaly detection, neural networks, decision trees, ensembles, recommendation systems, and deep reinforcement learning."
         />
         
       </div>
