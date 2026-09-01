@@ -26,11 +26,6 @@ const About = () => {
           {/* Text Section */}
           <div className="lg:w-1/2 text-center lg:text-left">
             <p className="text-lg text-white mt-4 font-serif">
-              Hi, I’m Sheetal Jain, an AIML and Backend technology enthusiast.{" "}
-              <br />I am passionate about leveraging machine learning and deep
-              learning to address and solve real-world problems.
-            </p>
-            <p className="text-lg text-white mt-4 font-serif">
               <strong>My Vision</strong> <br />
               I am dedicated to leveraging machine learning and deep learning to
               tackle complex challenges.
@@ -42,37 +37,17 @@ const About = () => {
               Additionally, I am passionate about sharing my knowledge through
               workshops, bootcamps, articles, and blogs.
               <br />
-              <br />I have earned certificates in Mathematics for Machine
-              Learning, Machine Learning, and the Deep Learning Specialization
-              from DeepLearning.AI in collaboration with Stanford University.
             </p>
           </div>
 
           {/* Image Section */}
           <div className="mt-8 lg:mt-0 lg:w-1/2 flex justify-center">
             <img
-              className="rounded-lg w-full max-w-xs  sm:max-w-sm md:max-w-md object-cover"
+              className="rounded-lg w-1/2 max-w-xs sm:max-w-sm md:max-w-md object-cover"
               src={profile}
               alt="Sheetal Jain"
             />
           </div>
-        </div>
-
-        {/* Additional Text Section */}
-        <div className="p-4 lg:p-10 text-center lg:text-left">
-          {/* <p className='text-lg text-white mt-4 font-serif'>
-            💡 <strong>My Journey</strong> <br />
-            After completing my BCA, I focused on preparing for various entrance exams such as CAT, XAT, MH-MBA CET, CMAT, and NIMCET. I dedicated significant time to mathematics and problem-solving, particularly in the DILR and Decision-Making sections of CAT and XAT respectively. Through this process, I discovered my passion for data analysis. Although I achieved an impressive AIR 1064 in NIMCET, I couldn't find a Tier-1 college that matched my interests.
-            <br /><br />
-            Consequently, I decided to enroll in the MCA-AIML program at Laxmi Narain College of Technology. Over the past 1.5 years, I have honed my problem-solving skills and applied them to the emerging fields of Machine Learning and Deep Learning. This journey has fueled my motivation to pursue a role in the ML and DL domains.
-          </p> */}
-          <p className="text-lg text-white mt-4 font-serif">
-            📚 <strong>What I find Interesting</strong> <br />I believe that
-            technology is a powerful tool for transformation. With my expertise
-            in Data Analysis, Machine Learning, and Deep Learning, I am eager to
-            leverage my skills to contribute to impactful and meaningful
-            projects.
-          </p>
         </div>
 
         {/* Skills Section */}
