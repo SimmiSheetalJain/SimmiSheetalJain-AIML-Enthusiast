@@ -27,7 +27,7 @@ const Body = () => {
           <br className="hidden md:block" />
           Big Data, Cloud, and Backend Development.
           <br className="hidden md:block" />
-          I aspire to harness the transformative power of technology
+          &nbsp;I aspire to harness the transformative power of technology
           <br className="hidden md:block" />
           to tackle real-world challenges and contribute to
           <br className="hidden md:block" />
