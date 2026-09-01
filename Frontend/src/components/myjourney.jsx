@@ -29,7 +29,7 @@ const Myjourney = () => {
               Career Break (Post-Covid) (Jan-2022 - Aug-2023)
             </li>
             <li className="text-white font-serif pb-5">
-              Bachelore of Computer Application(July-2018 - Dec-2021)
+              Bachelor of Computer Application(July-2018 - Dec-2021)
             </li>
           </ul>
         </div>
