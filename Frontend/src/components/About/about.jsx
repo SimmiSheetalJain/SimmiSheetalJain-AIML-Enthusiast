@@ -1,5 +1,7 @@
 import Footer from "../footer";
 import profile from "../../assets/SWE_Professional.jpg";
+import python_icon from "../../assets/free-python-logo-icon-svg-download-png-1720083.webp";
+import aws_icon from "../../assets/AWS-Logo-PNG-Images.webp";
 const About = () => {
   return (
     <div className="bg-black max-h-screen">
@@ -79,11 +81,7 @@ const About = () => {
             👩‍💻 Technologies & Languages I Use 👩‍💻
           </h1>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8 justify-items-center">
-            <img
-              className="h-20"
-              src="https://github.com/P47Parzival/Portfolio/blob/main/Frontend/src/assets/python.png?raw=true"
-              alt="Python"
-            />
+            <img className="h-20" src={python_icon} alt="Python" />
             <img
               className="h-20"
               src="https://github.com/SimmiSheetalJain/SDESSJ/blob/main/src/assets/skills/matplotlib.png?raw=true"
@@ -99,11 +97,7 @@ const About = () => {
               src="https://github.com/SimmiSheetalJain/SDESSJ/blob/main/src/assets/skills/numpy.png?raw=true"
               alt="numpy"
             />
-            <img
-              className="h-20"
-              src="https://github.com/P47Parzival/Portfolio/blob/main/Frontend/src/assets/mongo.png?raw=true"
-              alt="MongoDB"
-            />
+            <img className="h-20" src={aws_icon} alt="AWS" />
             <img
               className="h-20"
               src="https://github.com/SimmiSheetalJain/SDESSJ/blob/main/src/assets/skills/scikit.png?raw=true"
