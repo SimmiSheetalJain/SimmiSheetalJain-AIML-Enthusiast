@@ -31,7 +31,7 @@ const Body = () => {
           <br className="hidden md:block" />
           to tackle real-world challenges and contribute to
           <br className="hidden md:block" />
-          impactful, meaningful projects.
+          &nbsp;impactful, meaningful projects.
         </p>
 
         {/* <p className='text-l text-white mt-3 font-serif opacity-50'></p> */}
